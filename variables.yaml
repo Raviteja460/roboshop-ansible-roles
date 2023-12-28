@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.devops474.online # submit your host
+REDIS_HOST: redis.devops474.online
+MYSQL_HOST: mysql.devops474.online
+RABBITMQ_HOST: rabbitmq.devops474.online
+CATALOGUE_HOST: catalogue.devops474.online
+USER_HOST: user.devops474.online
+CART_HOST: cart.devops474.online
+SHIPPING_HOST: shipping.devops474.online
+PAYMENT_HOST: payment.devops474.online
+DISPATCH_HOST: dispatch.devops474.online
